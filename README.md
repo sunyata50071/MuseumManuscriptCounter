@@ -1,4 +1,4 @@
-A counting app that a museum can use to manually log the number of physical manuscripts scheduled for digitisation. Made as an assignment in Scrimba's course on Javascript. 
+A counting app that a museum can use to manually log the number of physical manuscripts scheduled for digitisation. Made using Javascript as an assignment for a Scrimba course.
 
 Deployed on Netlify: https://regal-strudel-233241.netlify.app/
 
