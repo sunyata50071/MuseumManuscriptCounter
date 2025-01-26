@@ -1,3 +1,9 @@
+A counting app that a museum can use to manually log the number of physical manuscripts in their collection. Made as an assignment in Scrimba's course on Javascript. 
+
+Deployed on Netlify: https://regal-strudel-233241.netlify.app/
+
+
+
 # Getting Started
 Install the dependencies and run the project
 ```
